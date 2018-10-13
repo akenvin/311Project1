@@ -1,3 +1,0 @@
-aword
-word2 word
-word3 a second word
